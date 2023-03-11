@@ -4,7 +4,7 @@
 
 
 ### Contacts
-[<img alt="TG | UmNauruzov" width="50px" src="./image/Telegram.png" />][tg]
+[<img alt="TG | UmNauruzov" width="50px" src="./Telegram.png" />][tg]
 
 [tg]: https://t.me/NauruzovU
 
