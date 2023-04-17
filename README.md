@@ -8,7 +8,7 @@
 
 [tg]: https://t.me/NauruzovU
 
-![your id](https://road-to-kaggle-grandmaster.vercel.app/api/simple/maratbogotirev)
+![your id](https://road-to-kaggle-grandmaster.vercel.app/api/simple/14604276)
 <br/>
 <hr>
 
