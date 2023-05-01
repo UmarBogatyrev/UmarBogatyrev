@@ -36,3 +36,5 @@
 <img align="middle" alt="Linux" width="80px" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" />
 
 <hr>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UmarNauruzov&theme=algolia)
