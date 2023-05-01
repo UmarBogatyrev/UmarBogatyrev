@@ -37,4 +37,16 @@
 
 <hr>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UmarNauruzov&theme=algolia)
+
+
+!['markdown'](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UmarNauruzov&theme=algolia)
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=UmarNauruzov&theme=algolia)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=UmarNauruzov&theme=algolia)
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=UmarNauruzov&theme=algolia)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=UmarNauruzov&theme=algolia&utcOffset=8)
