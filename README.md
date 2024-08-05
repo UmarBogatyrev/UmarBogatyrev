@@ -1,4 +1,4 @@
-# Hi, I'm Umar Nauruzov
+# Hi, I'm Umar Bogatyrev
 ## Education: Master's degree in Software Engineering at ITMO University
 ## Position: Python Developer and Data Scientist
 
