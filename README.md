@@ -4,9 +4,9 @@
 
 
 ### Contacts
-[<img alt="TG | UmNauruzov" width="50px" src="./Telegram.png" />][tg]
+[<img alt="TG | UmBogatyrev" width="50px" src="./Telegram.png" />][tg]
 
-[tg]: https://t.me/NauruzovU
+[tg]: https://t.me/BogatyrevU
 
 
 <br/>
