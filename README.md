@@ -39,14 +39,14 @@
 
 
 
-!['markdown'](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UmarNauruzov&theme=algolia)
+!['markdown'](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UmarBogatyrev&theme=algolia)
 
 <div style="display: flex;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=UmarNauruzov&theme=algolia" alt="Top Languages" width="400"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=UmarNauruzov&theme=algolia" alt="Most Used Language" width="400"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=UmarBogatyrev&theme=algolia" alt="Top Languages" width="400"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=UmarBogatyrev&theme=algolia" alt="Most Used Language" width="400"/>
 </div>
 
 <div style="display: flex;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=UmarNauruzov&theme=algolia" alt="GitHub Stats" width="400"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=UmarNauruzov&theme=algolia&utcOffset=8" alt="Productive Time" width="400"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=UmarBogatyrev&theme=algolia" alt="GitHub Stats" width="400"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=UmarBogatyrev&theme=algolia&utcOffset=8" alt="Productive Time" width="400"/>
 </div>
